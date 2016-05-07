@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="button_save_label">Save</string>
+</resources>
